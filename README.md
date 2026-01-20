@@ -57,3 +57,6 @@ pip install psutil netifaces
 
 
 #www0abdb@gmail.com لدعم
+
+
+### www0abdb@gmail.com لدعم المشروع 
