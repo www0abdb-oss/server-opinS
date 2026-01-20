@@ -54,3 +54,6 @@ sudo apt-get install iptables
 
 # مكتبات Python (سيتم تثبيتها تلقائياً)
 pip install psutil netifaces
+
+
+#www0abdb@gmail.com لدعم
