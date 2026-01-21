@@ -1,0 +1,13 @@
+# التبعيات الرئيسية
+sudo apt install iptables ipset nftables fail2ban clamav rkhunter lynis
+sudo apt install tcpdump iftop nethogs nmap wireshark
+sudo apt install sysstat dstat python3-pip sqlite3
+
+# مكتبات Python
+pip3 install psutil netifaces scapy pandas numpy
+
+# منح صلاحيات التنفيذ
+chmod +x cyber_shield_ultimate_pro++.sh
+
+# التشغيل كـ root
+sudo ./cyber_shield_ultimate_pro++.sh
