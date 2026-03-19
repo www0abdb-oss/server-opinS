@@ -56,7 +56,7 @@ sudo apt-get install iptables
 pip install psutil netifaces
 
 
-#www0abdb@gmail.com لدعم
+#www0abdb@gmail.com لتواصل
 
 
 ### www0abdb@gmail.com لدعم المشروع 
